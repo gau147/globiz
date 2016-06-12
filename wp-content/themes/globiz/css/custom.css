@@ -1,0 +1,77 @@
+/*** Wordpress custom csss **/
+
+.address-section{
+	float: none !important;
+    text-align: center;
+
+}
+
+#services-chat {
+    background: rgba(0, 0, 0, 0) url("../images/classy_fabric.png") repeat scroll 0 0;
+    margin: 0 auto;
+    overflow: hidden;
+    padding-top: 60px;
+    position: relative;
+    width: 100%;
+}
+
+
+.services-offer .services-icon4::before {
+    color: #ec572c;
+    content: "\f0c2";
+    display: block;
+    font-family: "FontAwesome";
+    font-size: 60px;
+    line-height: 60px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+}
+.services-offer .services-icon4 {
+    height: 60px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.services-offer .services-icon5::before {
+    color: #ec572c;
+    content: "\f108";
+    display: block;
+    font-family: "FontAwesome";
+    font-size: 60px;
+    line-height: 60px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+}
+.services-offer .services-icon5 {
+    height: 60px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.services-offer .services-icon6::before {
+    color: #ec572c;
+    content: "\f0c1";
+    display: block;
+    font-family: "FontAwesome";
+    font-size: 60px;
+    line-height: 60px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+}
+.services-offer .services-icon6 {
+    height: 60px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
